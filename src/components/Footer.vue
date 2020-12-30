@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>へっだー</p>
+    <p>ふったー</p>
     <p>てすと</p>
     <p>てすと</p>
   </div>
@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: "Header",
+  name: "Footer",
   props: {}
 };
 </script>
