@@ -24,7 +24,6 @@ export default {
 
 <style scoped>
 .header-main {
-  max-width: 1170px;
   width: 100%;
   font-family: optima;
   color: #fff;
@@ -51,12 +50,13 @@ ul {
   display: flex;
   justify-content: right;
   padding: 0;
-  margin: 0;
+  margin-right: 70px;
   list-style: none;
 }
 
 li {
   width: 70px;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;

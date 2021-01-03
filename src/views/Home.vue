@@ -5,6 +5,10 @@
 </template>
 
 <style scoped>
+.home {
+  margin-top: 81.88px;
+}
+
 h1 {
   font-size: 50px;
   color: #413;
