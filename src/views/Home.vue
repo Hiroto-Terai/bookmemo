@@ -6,7 +6,7 @@
 
 <style scoped>
 h1 {
-  font-size: 100px;
+  font-size: 50px;
   color: #413;
 }
 </style>

@@ -1,8 +1,6 @@
 <template>
   <div>
-    <p>ふったー</p>
-    <p>てすと</p>
-    <p>てすと</p>
+    <p>footer</p>
   </div>
 </template>
 
@@ -15,7 +13,7 @@ export default {
 
 <style scoped>
 div {
-  border: medium solid #ff00ff;
+  border: medium solid #00ff737c;
 }
 p {
   border: medium solid #000;

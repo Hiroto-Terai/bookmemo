@@ -1,10 +1,6 @@
 <template>
   <div id="app">
     <Header />
-    <div id="nav">
-      <router-link to="/">home|</router-link>
-      <router-link to="/about">About</router-link>
-    </div>
     <router-view />
     <Footer />
   </div>
@@ -26,6 +22,7 @@ export default {
 <style>
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
+  margin: 0px;
   text-align: center;
   color: #2c3e50;
   /* アンチエイリアス */
